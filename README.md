@@ -7,19 +7,20 @@
 
 ## Table of Contents
 
-1)  [Overview]()
 
-2)  [Menu Class]()
+1)  [Overview](https://github.com/KavyaKolavasi1/TacoBell-Ordering-System#overview)
 
-3)  [Order Class]()
+2)  [Menu Class](https://github.com/KavyaKolavasi1/TacoBell-Ordering-System#menu-class)
 
-4)  [Sales Class]()
+3)  [TacoBell Class](https://github.com/KavyaKolavasi1/TacoBell-Ordering-System#tacobell-class)
 
-5)  [TacoBell Class]()
+4)  [Order Class](https://github.com/KavyaKolavasi1/TacoBell-Ordering-System#order-class)
 
-6) [Output]()
+5)  [Sales Class](https://github.com/KavyaKolavasi1/TacoBell-Ordering-System#sales-class)
 
-4) [Reflection]()
+6) [Output](https://github.com/KavyaKolavasi1/TacoBell-Ordering-System#output)
+
+4) [Reflection](https://github.com/KavyaKolavasi1/TacoBell-Ordering-System#reflection)
 
 
 ## Overview
