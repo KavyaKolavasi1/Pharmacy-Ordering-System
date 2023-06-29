@@ -11,7 +11,7 @@
 
 2)  [Menu Class](https://github.com/KavyaKolavasi1/Mancala#player-class)
 
-3)  [TacoBelll Class](https://github.com/KavyaKolavasi1/Mancala#mancala-class)
+3)  [TacoBell Class](https://github.com/KavyaKolavasi1/Mancala#mancala-class)
 
 4) [Output](https://github.com/KavyaKolavasi1/Mancala#output)
 
@@ -69,7 +69,7 @@ The Sales class will be used to compute the total sales from each customer for t
 
 ### A simple example of how the class can be used below:
 
-   # Create Menu Objects of items and cost
+    # Create Menu Objects of items and cost
     T1 = Menu("Taco", "Spicy Potato Soft Taco", 2)
     T2 = Menu("Taco", "Crunchy Bean Taco", 2)
     T3 = Menu("Taco", "Soft Bean Taco", 2)
@@ -130,30 +130,27 @@ The Sales class will be used to compute the total sales from each customer for t
 
 
 ### And the output will be:
-TACO BELL: MENU ITEMS
-    
- Spicy Potato Soft Taco = $2
- Crunchy Bean Taco = $2
- Soft Bean Taco = $2
- Fiesta Veggie Burrito = $3
- Mexican Pizza = $4
- Coca Cola = $1
- Pepsi = $1
- Water = $1
- 
- 
- Dan's Order:
- Water 1
- Mexican Pizza 2
- Total Cost: $9
- 
- Kim's Order:
- Pepsi 1
- Soft Bean Taco 2
- Total Cost: $5
- 
- Total Sales for Day: $14
+    TACO BELL: MENU ITEMS
+    Spicy Potato Soft Taco = $2
+    Crunchy Bean Taco = $2
+    Soft Bean Taco = $2
+    Fiesta Veggie Burrito = $3
+    Mexican Pizza = $4
+    Coca Cola = $1
+    Pepsi = $1
+    Water = $1
 
+    Dan's Order:
+    Water 1
+    Mexican Pizza 2
+    Total Cost: $9
+
+    Kim's Order:
+    Pepsi 1
+    Soft Bean Taco 2
+    Total Cost: $5
+
+    Total Sales for Day: $14
 
 ## Reflection
 
