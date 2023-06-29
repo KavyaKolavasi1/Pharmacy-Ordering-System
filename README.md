@@ -7,15 +7,19 @@
 
 ## Table of Contents
 
-1)  [Overview](https://github.com/KavyaKolavasi1/Mancala#overview)
+1)  [Overview]()
 
-2)  [Menu Class](https://github.com/KavyaKolavasi1/Mancala#player-class)
+2)  [Menu Class]()
 
-3)  [TacoBell Class](https://github.com/KavyaKolavasi1/Mancala#mancala-class)
+3)  [Order Class]()
 
-4) [Output](https://github.com/KavyaKolavasi1/Mancala#output)
+4)  [Sales Class]()
 
-4) [Reflection](https://github.com/KavyaKolavasi1/Mancala#reflection)
+5)  [TacoBell Class]()
+
+6) [Output]()
+
+4) [Reflection]()
 
 
 ## Overview
