@@ -129,14 +129,30 @@ The Sales class will be used to compute the total sales from each customer for t
 
 
 
-
-
-
 ### And the output will be:
-
-
-
-
+TACO BELL: MENU ITEMS
+    
+ Spicy Potato Soft Taco = $2
+ Crunchy Bean Taco = $2
+ Soft Bean Taco = $2
+ Fiesta Veggie Burrito = $3
+ Mexican Pizza = $4
+ Coca Cola = $1
+ Pepsi = $1
+ Water = $1
+ 
+ 
+ Dan's Order:
+ Water 1
+ Mexican Pizza 2
+ Total Cost: $9
+ 
+ Kim's Order:
+ Pepsi 1
+ Soft Bean Taco 2
+ Total Cost: $5
+ 
+ Total Sales for Day: $14
 
 
 ## Reflection
