@@ -158,5 +158,5 @@ The Sales class will be used to compute the total sales from each customer for t
     Total Sales for Day: $14
 
 ## Reflection
-
+The idea behind this implementation arose because of issues with obtaining order's for multiple people in a friend group or work setting. Items were being regularly missed or orders incorrectly placed due to the large amount of orders being taken by one person. To improve upon this project, I would like to create a mobile app that can be used by others to take a quick survey of orders without having to pass around a phone or bombared with messages of orders. This will help to reduce and make the process more efficient.
 
