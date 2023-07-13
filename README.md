@@ -31,9 +31,9 @@ This project is the implemention of popular medications in our pharmacy catalog 
 #### This was originally a TacoBell ordering system but was altered to a pharmacy system to assist my day to day needs. The TacoBell.py also is included here for this reason.
 
 
-## Pharmacy Class
+## Catalog Class
 ### Description
-The Pharmacy class initializes a new medication item using category, medication name, and price to define each item available for order.
+The Catalog class initializes a new medication item using category, medication name, and price to define each item available for order.
 ### Implementation
 *  **_ init_(self,cateogry,medication,price):** This method initializes the category ((ie, derm, weight loss, hormone, etc), medication (item name), price(cost) of each item. All data members are private and can only be called within the player class directly.
 * **get_category(self):** This method will return the category of each item
