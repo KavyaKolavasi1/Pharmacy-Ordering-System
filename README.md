@@ -35,7 +35,7 @@ The Pharmacy class initializes a new medication item using category, medication 
 ### Implementation
 *  **_ init_(self,cateogry,medication,price):** This method initializes the category ((ie, derm, weight loss, hormone, etc), medication (item name), price(cost) of each item. All data members are private and can only be called within the player class directly.
 * **get_category(self):** This method will return the category of each item
-* **get_medication(self):** This method will return the style of each item
+* **get_medication(self):** This method will return the medication of each item
 * **get_price(self):** This method will return the price of each item
 * **_repr_(self):** This method will help to visualize the contents of the catalog object
 
