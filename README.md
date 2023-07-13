@@ -28,6 +28,8 @@ This project is the implemention of popular medications in our pharmacy catalog 
 
 #### The items and costs entered here are not reflective of the actual costs associated at my pharmacy workplace. I have a personal copy I utilize in my day to day that I am not able to publish due to non-disclosure. The below program is a sample.
 
+#### This was originally a TacoBell ordering system but was altered to a pharmacy system to assist my day to day needs.
+
 
 ## Pharmacy Class
 ### Description
