@@ -10,7 +10,7 @@
 
 1)  [Overview](https://github.com/KavyaKolavasi1/TacoBell-Ordering-System#overview)
 
-2)  [Catalog Class](https://github.com/KavyaKolavasi1/TacoBell-Ordering-System#menu-class)
+2)  [Catalog Class](https://github.com/KavyaKolavasi1/Pharmacy-Ordering-System#catalog-class)
 
 3)  [Pharmacy Class](https://github.com/KavyaKolavasi1/TacoBell-Ordering-System#tacobell-class)
 
