@@ -122,7 +122,7 @@ The Sales class will be used to compute the total sales from each customer for t
 
     # Create sales objects for each customer and add their orders to the sales list
     s1 = Sales("Dan")
-    s2 = Sales("Kim")
+    s2 = Sales("Lin")
     s1.add_order(c1)
     s2.add_order(c2)
 
@@ -156,7 +156,7 @@ The Sales class will be used to compute the total sales from each customer for t
     Phentermine 30
     Total Cost: $65.0
     
-    Kim's Order:
+    Lin's Order:
     Progesterone Cream 1
     Semaglutide 2
     Total Cost: $220
