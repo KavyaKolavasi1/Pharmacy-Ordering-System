@@ -108,7 +108,7 @@ The Sales class will be used to compute the total sales from each customer for t
     print("\n")
 
     c1 = Order("Dan")
-    c2 = Order("Kim")
+    c2 = Order("Lin")
 
     # Important: Be careful to type in medication names and not item category
     c1.customer_order(["Melasma Cream", "Phentermine"], [1, 30])
