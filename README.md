@@ -26,7 +26,7 @@
 ## Overview
 This project is the implemention of popular medications in our pharmacy catalog and a system to capture each customer's order, total cost, as well as total sales for the day using python. On a day to day I take many medication orders from doctors and patients, and having a system to quickly document these orders and calulate a cost and total sales is very beneficial. It reduces the amount of time necessary to input orders while I create prescriptions. Below, I will discuss the use of object oriented programming to create this sytem. 
 
-#### The items and costs entered here are not reflective of the actual costs associated at my pharmacy workplace. I have a personal copy I utilize in my day to day that I am not able to publish due to non-disclosure. The below program is a sample.
+#### The items and costs entered here are not reflective of the actual costs associated at my pharmacy workplace due to non-disclosure. The below program is a sample.
 
 #### This was originally a TacoBell ordering system but was altered to a pharmacy system to assist my day to day needs. The TacoBell.py also is included here for this reason.
 
