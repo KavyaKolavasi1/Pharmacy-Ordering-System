@@ -24,7 +24,7 @@
 
 
 ## Overview
-This project is the implemention of popular medications in our pharmacy catalog and a system to capture each customer's order, total cost, as well as total sales for the day using python. On a day to day I take many medication orders from doctors and patients, and having a system to quickly document these orders and calulate a cost and total sales is very beneficial. It reduces the amount of time necessary to input orders while I create prescriptions. Below, I will discuss the use of object oriented programming to create this sytem. 
+This project is the implemention of popular medications in the pharmacy catalog and a system to capture each customer's order, total cost, as well as total sales for the day using python. On a day to day I take many medication orders from doctors and patients, and having a system to quickly document these orders and calulate a cost and total sales is very beneficial. It reduces the amount of time necessary to input orders while I create prescriptions. Below, I will discuss the use of object oriented programming to create this sytem. 
 
 #### The items and costs entered here are not reflective of the actual costs associated at my pharmacy workplace due to non-disclosure. The below program is a sample.
 
@@ -79,12 +79,12 @@ The Sales class will be used to compute the total sales from each customer for t
 ### A simple example of how the class can be used below:
 
     # Create Catalog Objects of items and cost
-    T1 = Catalog("Derm", "Melasma Cream", 50)
-    T2 = Catalog("Derm", "Hair Restoration Solution", 50)
-    T3 = Catalog("Derm", "Rosacea Cream", 50)
-    B1 = Catalog("Weight_Loss", "Semaglutide", 100)
+    T1 = Catalog("Derm", "Pigmentation Cream", 50)
+    T2 = Catalog("Derm", "Hair Growth Solution", 50)
+    T3 = Catalog("Derm", "Acne Cream", 50)
+    B1 = Catalog("Weight_Loss", "Metformin", 100)
     B2 = Catalog("Weight_Loss", "Phentermine", 0.50)
-    P1 = Catalog("Weight_Loss", "Lipo Caps", 1)
+    P1 = Catalog("Weight_Loss", "Naltrexone", 1)
     D1 = Catalog("Hormone", "Testosterone Injection", 45)
     D2 = Catalog("Hormone", "Progesterone Cream", 20)
     D3 = Catalog("Hormone", "Estradiol Cream", 20)
@@ -111,8 +111,8 @@ The Sales class will be used to compute the total sales from each customer for t
     c2 = Order("Lin")
 
     # Important: Be careful to type in medication names and not item category
-    c1.customer_order(["Melasma Cream", "Phentermine"], [1, 30])
-    c2.customer_order(["Progesterone Cream", "Semaglutide"], [1, 2])
+    c1.customer_order(["Pigmentation Cream", "Phentermine"], [1, 30])
+    c2.customer_order(["Progesterone Cream", "Metformin"], [1, 2])
 
     # Print each customer's order
     c1.print_customer_order(tc)
@@ -140,25 +140,25 @@ The Sales class will be used to compute the total sales from each customer for t
 
 ### And the output will be:
     Pharmacy: CATALOG ITEMS
-    Melasma Cream = $50
-    Hair Restoration Solution = $50
-    Rosacea Cream = $50
-    Semaglutide = $100
+    Pigmentation Cream = $50
+    Hair Growth Solution = $50
+    Acne Cream = $50
+    Metformin = $100
     Phentermine = $0.5
-    Lipo Caps = $1
+    Naltrexone  = $1
     Testosterone Injection = $45
     Progesterone Cream = $20
     Estradiol Cream = $20
     
     
     Dan's Order:
-    Melasma Cream 1
+    Pigmentation Cream 1
     Phentermine 30
     Total Cost: $65.0
     
     Lin's Order:
     Progesterone Cream 1
-    Semaglutide 2
+    Metformin 2
     Total Cost: $220
     
     Total Sales for the Day: $285.0
