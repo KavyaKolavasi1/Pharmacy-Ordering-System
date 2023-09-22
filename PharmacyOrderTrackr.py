@@ -108,12 +108,12 @@ class Sales:
 
 if __name__ == "__main__":
     # Create Catalog Objects of items and cost
-    T1 = Catalog("Derm", "Melasma Cream", 50)
-    T2 = Catalog("Derm", "Hair Restoration Solution", 50)
-    T3 = Catalog("Derm", "Rosacea Cream", 50)
-    B1 = Catalog("Weight_Loss", "Semaglutide", 100)
+    T1 = Catalog("Derm", "Pigmentation Cream", 50)
+    T2 = Catalog("Derm", "Hair Growth Solution", 50)
+    T3 = Catalog("Derm", "Acne Cream", 50)
+    B1 = Catalog("Weight_Loss", "Metformin", 100)
     B2 = Catalog("Weight_Loss", "Phentermine", 0.50)
-    P1 = Catalog("Weight_Loss", "Lipo Caps", 1)
+    P1 = Catalog("Weight_Loss", "Naltrexone", 1)
     D1 = Catalog("Hormone", "Testosterone Injection", 45)
     D2 = Catalog("Hormone", "Progesterone Cream", 20)
     D3 = Catalog("Hormone", "Estradiol Cream", 20)
@@ -140,8 +140,8 @@ if __name__ == "__main__":
     c2 = Order("Kim")
 
     # Important: Be careful to type in medication names and not item category
-    c1.customer_order(["Melasma Cream", "Phentermine"], [1, 30])
-    c2.customer_order(["Progesterone Cream", "Semaglutide"], [1, 2])
+    c1.customer_order(["Pigmentation Cream", "Phentermine"], [1, 30])
+    c2.customer_order(["Progesterone Cream", "Metformin"], [1, 2])
 
     # Print each customer's order
     c1.print_customer_order(tc)
